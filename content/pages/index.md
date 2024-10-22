@@ -3,12 +3,10 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    title: Where Have all the Papers Gone?
+    subtitle: 'Priming the Pump of Pedagogical Publishing in Europe'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+       A workshop at CEP 2025
     actions:
       - type: Button
         label: Start Building
