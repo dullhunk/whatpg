@@ -12,11 +12,11 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: Seven Wicked Problems
+    subtitle: How would you rank these problems in importance?
     items:
       - type: Card
-        title: First Card Title
+        title: Publishing Problem
         image:
           type: Image
           url: /images/nextjs.svg
@@ -26,12 +26,8 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Promotion Problem
         image:
           type: Image
           url: /images/mui-5.svg
@@ -41,12 +37,8 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: Funding Problem
         image:
           type: Image
           url: /images/ts.svg
@@ -56,8 +48,4 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
