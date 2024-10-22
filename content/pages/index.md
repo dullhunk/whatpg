@@ -13,7 +13,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Seven Wicked Problems
-    subtitle: How would you rank these problems in importance?
+    subtitle: Help us rank these wicked problems in order of importance
     items:
       - type: Card
         title: Publishing Problem
@@ -92,5 +92,13 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat.
+      - type: Card
+        title: Did we miss any?
+        image:
+          type: Image
+          url: /images/ts.svg
+          altText: Third item image
+        text: >
+          Is there another class of problem we missed?
 
 ---
