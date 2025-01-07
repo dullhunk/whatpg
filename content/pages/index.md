@@ -9,7 +9,7 @@ sections:
        A workshop at CEP 2025 [doi.org/nzzf](https://doi.org/nzzf), help us rank the wicked problems below in order of importance [forms.office.com/e/tngB4bQhk7](https://forms.office.com/e/tngB4bQhk7)
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/seeger.jpg
       altText: Hero section image
   - type: CardsSection
     title: Seven Wicked Problems
