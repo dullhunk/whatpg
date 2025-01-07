@@ -38,10 +38,7 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          It can be difficult to find funding for research into pedagogy, as a relatively young field there are still lots of open questions about how to teach computing, but inadequate funding to allow investigation to take place
       - type: Card
         title: Disconnect Problem
         image:
@@ -49,10 +46,7 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Computing Education Research is sometimes too disconnected from practice (and vice versa). Definitions of what “counts” as research can be too restrictive see [doi.org/h772](https://doi.org/h772)
       - type: Card
         title: Priorities Problem
         image:
@@ -60,10 +54,7 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+           Administrative and teaching duties leave little or no time to publish papers, meaning that good intentions to publish, are often not realised due to higher priorities taking precedence
       - type: Card
         title: Metrics Problem
         image:
@@ -71,10 +62,7 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Good teaching is difficult to evaluate and measure, papers are often not REF-able anyway
       - type: Card
         title: Prestige Problem
         image:
@@ -82,10 +70,7 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          CER lacks prestige and parity of esteem with other areas of research
       - type: Card
         title: Did we miss any?
         image:
@@ -93,6 +78,6 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Is there another class of problem we missed?
+          Is there another class of problem we missed? See question 2 at [forms.office.com/e/tngB4bQhk7](https://forms.office.com/e/tngB4bQhk7)
 
 ---
