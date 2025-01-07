@@ -13,7 +13,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Seven Wicked Problems
-    subtitle: We've classified the wicked problems our community faces into seven broad categories:
+    subtitle: We've classified the wicked problems our community faces into seven broad categories
     items:
       - type: Card
         title: Publishing Problem
