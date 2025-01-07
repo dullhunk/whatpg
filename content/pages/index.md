@@ -6,7 +6,7 @@ sections:
     title: Where Have all the Papers Gone?
     subtitle: 'Priming the Pump of Pedagogical Publishing in Europe'
     text: >
-       A workshop at CEP 2025
+       A workshop at CEP 2025 [doi.org/nzzf](https://doi.org/nzzf)
     image:
       type: Image
       url: /images/hero.svg
