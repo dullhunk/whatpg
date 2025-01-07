@@ -6,9 +6,9 @@ sections:
     title: Where Have All the Papers Gone?
     subtitle: 'Priming the Pump of Pedagogical Publishing in Europe'
     text: >
-       A workshop at CEP 2025 [doi.org/nzzf](https://doi.org/nzzf), help us rank the wicked problems below in order of importance [forms.office.com/e/tngB4bQhk7](https://forms.office.com/e/tngB4bQhk7)
+       A workshop at CEP 2025 [doi.org/nzzf](https://doi.org/nzzf), help us rank the wicked problems below in order of importance [forms.office.com/e/tngB4bQhk7](https://forms.office.com/e/tngB4bQhk7).
 
-       We've borrowed the title of this workshop from [Pete Seeger](https://en.wikipedia.org/wiki/Pete_Seeger), who [borrowed it from the Ukranians](https://en.wikipedia.org/wiki/Where_Have_All_the_Flowers_Gone%3F). Public domain picture of Seeger from Wikimedia Commons [w.wiki/CeDk](https://w.wiki/CeDk)
+       We have borrowed the title of this workshop from [Pete Seeger](https://en.wikipedia.org/wiki/Pete_Seeger), who [borrowed it from the Ukranians](https://en.wikipedia.org/wiki/Where_Have_All_the_Flowers_Gone%3F). Public domain picture of Seeger from Wikimedia Commons [w.wiki/CeDk](https://w.wiki/CeDk)
     image:
       type: Image
       url: /images/seeger.jpg
@@ -21,7 +21,7 @@ sections:
         title: Publishing Problem
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/send.png
           altText: First item image
         text: >
           There are insufficient incentives for practitioners to publish and too many barriers to prevent publication. The mantra of “publish or perish” doesn’t apply, there are lots of good practitioners who publish very little, their work is invisible
