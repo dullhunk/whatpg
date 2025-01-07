@@ -6,14 +6,14 @@ sections:
     title: Where Have all the Papers Gone?
     subtitle: 'Priming the Pump of Pedagogical Publishing in Europe'
     text: >
-       A workshop at CEP 2025 [doi.org/nzzf](https://doi.org/nzzf)
+       A workshop at CEP 2025 [doi.org/nzzf](https://doi.org/nzzf), help us rank the wicked problems below in order of importance [forms.office.com/e/tngB4bQhk7](https://forms.office.com/e/tngB4bQhk7)
     image:
       type: Image
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
     title: Seven Wicked Problems
-    subtitle: Help us rank these wicked problems in order of importance [forms.office.com/e/tngB4bQhk7](https://forms.office.com/e/tngB4bQhk7)
+    subtitle: We've classified the wicked problems our community faces into seven broad categories:
     items:
       - type: Card
         title: Publishing Problem
