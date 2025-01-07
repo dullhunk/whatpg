@@ -22,7 +22,7 @@ sections:
         image:
           type: Image
           url: /images/send.png
-          altText: First item image
+          altText: Publishing image
         text: >
           There are insufficient incentives for practitioners to publish and too many barriers to prevent publication. The mantra of “publish or perish” doesn’t apply, there are lots of good practitioners who publish very little, their work is invisible
       - type: Card
@@ -30,7 +30,7 @@ sections:
         image:
           type: Image
           url: /images/promotion.png
-          altText: Second item image
+          altText: Promotion image
         text: >
           Good teaching does not always lead to sufficient recognition and reward. Advance HE rewards like AFHEA, FHEA, SFHEA, PFHEA and NTF help but are not always recognised by promotion panels dominated by research-focused staff
       - type: Card
@@ -38,7 +38,7 @@ sections:
         image:
           type: Image
           url: /images/funding.png
-          altText: Third item image
+          altText: Funding image
         text: >
           It can be difficult to find funding for research into pedagogy, as a relatively young field there are still lots of open questions about how to teach computing, but inadequate funding to allow investigation to take place
       - type: Card
@@ -46,7 +46,7 @@ sections:
         image:
           type: Image
           url: /images/disconnect.png
-          altText: Third item image
+          altText: Disconnect image
         text: >
           Computing Education Research is sometimes too disconnected from practice (and vice versa). Definitions of what “counts” as research can be too restrictive see [doi.org/h772](https://doi.org/h772)
       - type: Card
@@ -54,7 +54,7 @@ sections:
         image:
           type: Image
           url: /images/priorities.png
-          altText: Third item image
+          altText: Priorities item image
         text: >
            Administrative and teaching duties leave little or no time to publish papers, meaning that good intentions to publish, are often not realised due to higher priorities taking precedence
       - type: Card
@@ -62,7 +62,7 @@ sections:
         image:
           type: Image
           url: /images/metrics.png
-          altText: Third item image
+          altText: Metrics item image
         text: >
           Good teaching is difficult to evaluate and measure, papers are often not REF-able anyway
       - type: Card
@@ -70,15 +70,15 @@ sections:
         image:
           type: Image
           url: /images/prestige.png
-          altText: Third item image
+          altText: Prestige item image
         text: >
           CER lacks prestige and parity of esteem with other areas of research
       - type: Card
         title: Did we miss any?
         image:
           type: Image
-          url: /images/ts.svg
-          altText: Third item image
+          url: /images/missing.png
+          altText: Missing item image
         text: >
           Is there another class of problem we missed? See question 2 at [forms.office.com/e/tngB4bQhk7](https://forms.office.com/e/tngB4bQhk7)
 
