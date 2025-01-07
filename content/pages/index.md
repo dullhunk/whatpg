@@ -8,7 +8,7 @@ sections:
     text: >
        A workshop at CEP 2025 [doi.org/nzzf](https://doi.org/nzzf), help us rank the wicked problems below in order of importance [forms.office.com/e/tngB4bQhk7](https://forms.office.com/e/tngB4bQhk7).
 
-       We have borrowed the title of this workshop from [Pete Seeger](https://en.wikipedia.org/wiki/Pete_Seeger), who [borrowed it from the Ukranians](https://en.wikipedia.org/wiki/Where_Have_All_the_Flowers_Gone%3F). Public domain picture of Seeger from Wikimedia Commons [w.wiki/CeDk](https://w.wiki/CeDk)
+       We have borrowed the title of this workshop from [Pete Seeger](https://en.wikipedia.org/wiki/Pete_Seeger), who [borrowed it from the Ukranians](https://en.wikipedia.org/wiki/Where_Have_All_the_Flowers_Gone%3F). Public domain picture of Seeger from Wikimedia Commons [w.wiki/CeDk](https://w.wiki/CeDk). Other images below from [flaticon.com](https://www.flaticon.com)
     image:
       type: Image
       url: /images/seeger.jpg
@@ -29,7 +29,7 @@ sections:
         title: Promotion Problem
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/promotion.png
           altText: Second item image
         text: >
           Good teaching does not always lead to sufficient recognition and reward. Advance HE rewards like AFHEA, FHEA, SFHEA, PFHEA and NTF help but are not always recognised by promotion panels dominated by research-focused staff
@@ -37,7 +37,7 @@ sections:
         title: Funding Problem
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/funding.png
           altText: Third item image
         text: >
           It can be difficult to find funding for research into pedagogy, as a relatively young field there are still lots of open questions about how to teach computing, but inadequate funding to allow investigation to take place
@@ -45,7 +45,7 @@ sections:
         title: Disconnect Problem
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/disconnect.png
           altText: Third item image
         text: >
           Computing Education Research is sometimes too disconnected from practice (and vice versa). Definitions of what “counts” as research can be too restrictive see [doi.org/h772](https://doi.org/h772)
@@ -53,7 +53,7 @@ sections:
         title: Priorities Problem
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/priorities.png
           altText: Third item image
         text: >
            Administrative and teaching duties leave little or no time to publish papers, meaning that good intentions to publish, are often not realised due to higher priorities taking precedence
@@ -61,7 +61,7 @@ sections:
         title: Metrics Problem
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/metrics.png
           altText: Third item image
         text: >
           Good teaching is difficult to evaluate and measure, papers are often not REF-able anyway
@@ -69,7 +69,7 @@ sections:
         title: Prestige Problem
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/prestige.png
           altText: Third item image
         text: >
           CER lacks prestige and parity of esteem with other areas of research
